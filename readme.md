@@ -1,7 +1,7 @@
 # Privacy Policy for Zenicca (CEO Advisor) - RSG Consulting
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** 18th Feb 2025  
+**Last Updated:** 18th Feb 2025
 
 ---
 
@@ -68,8 +68,8 @@ If any future changes require third-party processing, **explicit user consent** 
 
 For any privacy concerns, please reach out to:
 
-- **Email:** [Your Contact Email]  
-- **Website:** [Your Website]
+- **Email:** akshitkhokhani20@gmail.com    
+- **Website:** https://www.rsg.consulting/
 
 ---
 
